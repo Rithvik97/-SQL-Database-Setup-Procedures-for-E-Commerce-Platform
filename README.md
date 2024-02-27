@@ -3,6 +3,7 @@
 This documentation outlines the setup of the database and the procedures used for managing products, inventory, consumer details, purchases, and shipping for an e-commerce platform.
 
 ## Database Schema
+<img width="468" alt="image" src="https://github.com/Rithvik97/Database-Setup-and-Procedures-for-E-Commerce-Platform/assets/145782290/44af0440-e737-480d-9cdc-e120d4b67025">
 
 ### Tables
 
