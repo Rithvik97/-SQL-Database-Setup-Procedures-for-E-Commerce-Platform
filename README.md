@@ -51,8 +51,4 @@ Insertion commands for warehouses, shipping speeds, categories, sellers, and som
 
 To use these procedures, ensure your database user has the necessary permissions to execute them. For example, to add a new product, you would execute the `newproduct` procedure with the appropriate parameters for the product name, description, price, category ID, and seller ID.
 
-Please replace placeholder values with actual data relevant to your use case.
 
----
-
-**Note**: This documentation assumes that the database and its objects have been created successfully and that the user has the necessary permissions to execute the listed procedures and insert commands.
